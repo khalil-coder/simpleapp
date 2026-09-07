@@ -1,0 +1,7 @@
+account/
+account/*
+simple_app/
+simple_app/*
+db.sqlite3
+manage.py
+.venv/
